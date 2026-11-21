@@ -31,7 +31,6 @@ Analysed pharmaceutical sales, inventory, expiry and quality data to identify bu
 - Created an interactive Tableau dashboard.
 
 ## Tableau Dashboard Preview
-
 ![Pharmaceutical Dashboard](./Pharmaceutical_Dashboard.png)
 ## Education
 **B.Sc Biotechnology (2025)**  
